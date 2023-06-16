@@ -5,7 +5,6 @@ consign({ cwd: 'src', verbose: false })
     .include('./config/middlewares.js')
     .include('./database')
     .include('./services')
-    .include('./usecase')
     .include('./routes')
     .then('./config/router.js')
     .into(app);
