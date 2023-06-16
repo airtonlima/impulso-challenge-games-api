@@ -1,5 +1,5 @@
 
-# Games API - Impulso Challenge
+# Impulso Challenge - Games API
 
 ## Desafio 34 - Desenvolver uma API em Node.js
 
